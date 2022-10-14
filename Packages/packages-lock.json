@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.grv.build-module": {
+      "version": "https://github.com/Hadjime/BuildModule.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "39a1e5ddf6b274d41b6f7cc269417d9c719b65df"
+    },
     "com.unity.2d.animation": {
       "version": "7.0.7",
       "depth": 1,
